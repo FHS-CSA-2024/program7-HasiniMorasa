@@ -1,6 +1,6 @@
 import java.util. Scanner;
 
- public class Conversionofnickels {
+ public class program7 {
 
 
 
